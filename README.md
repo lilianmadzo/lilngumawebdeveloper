@@ -41,7 +41,7 @@ Conduct thorough testing across various devices and browsers. Fix any bugs or co
 Subtasks:
 Promote websites through social media, online communities, and professional networks. Monitor website traffic and analytics. Update content and functionalities as needed. Maintain website security and performance.
 
-5.My website.
+My website.
 
 The link shown below will direct you to my currently developed website ,which was the project which i undertaken.It contains all the requirements,that is a description of myself and my various skills which i can offer as website developer.
 
